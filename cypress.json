@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.browserstack.com",
+
+  "env": {
+    "logoText": "BrowserStack"
+  }
+}
